@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/React-multi-stem-validation/static/css/main.7bb1e27e.chunk.css",
+    "main.js": "/React-multi-stem-validation/static/js/main.f77dea91.chunk.js",
+    "main.js.map": "/React-multi-stem-validation/static/js/main.f77dea91.chunk.js.map",
+    "runtime-main.js": "/React-multi-stem-validation/static/js/runtime-main.c1804eac.js",
+    "runtime-main.js.map": "/React-multi-stem-validation/static/js/runtime-main.c1804eac.js.map",
+    "static/js/2.025b1bf5.chunk.js": "/React-multi-stem-validation/static/js/2.025b1bf5.chunk.js",
+    "static/js/2.025b1bf5.chunk.js.map": "/React-multi-stem-validation/static/js/2.025b1bf5.chunk.js.map",
+    "index.html": "/React-multi-stem-validation/index.html",
+    "static/css/main.7bb1e27e.chunk.css.map": "/React-multi-stem-validation/static/css/main.7bb1e27e.chunk.css.map",
+    "static/js/2.025b1bf5.chunk.js.LICENSE.txt": "/React-multi-stem-validation/static/js/2.025b1bf5.chunk.js.LICENSE.txt",
+    "static/media/allergy.eab4a1e6.svg": "/React-multi-stem-validation/static/media/allergy.eab4a1e6.svg",
+    "static/media/diet.96ec42f9.svg": "/React-multi-stem-validation/static/media/diet.96ec42f9.svg",
+    "static/media/healthy.6ccebc97.svg": "/React-multi-stem-validation/static/media/healthy.6ccebc97.svg",
+    "static/media/love.eff86fb3.svg": "/React-multi-stem-validation/static/media/love.eff86fb3.svg",
+    "static/media/thumb.ca372aae.svg": "/React-multi-stem-validation/static/media/thumb.ca372aae.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c1804eac.js",
+    "static/js/2.025b1bf5.chunk.js",
+    "static/css/main.7bb1e27e.chunk.css",
+    "static/js/main.f77dea91.chunk.js"
+  ]
+}
